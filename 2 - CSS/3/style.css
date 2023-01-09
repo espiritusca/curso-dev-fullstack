@@ -1,0 +1,16 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+   /* background-position: 50% 10%; */
+   background-position: left center;
+   background-size: cover;
+   background-attachment: fixed;
+}
+
+.photo {
+    width: 200px;
+}
+
+p {
+    color: #222222;
+}

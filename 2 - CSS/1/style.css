@@ -1,0 +1,19 @@
+body {
+    background: red;
+}
+
+.verde {
+    color: green;
+}
+
+h2 {
+    color:blue;
+}
+
+.photo {
+    width: 200px;
+}
+
+#titulo-principal {
+    color: yellow;
+}
